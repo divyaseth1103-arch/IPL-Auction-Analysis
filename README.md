@@ -1,6 +1,6 @@
 # 🏏 IPL Auction Analysis (2013-2023)
 
-![Dashboard](Dashboard.png)
+
 
 ## 📌 Objective
 Analyzing 10 years of IPL auction data to uncover 
@@ -35,7 +35,7 @@ spending trends, player valuations and team strategies.
 - Punjab Kings got most players at lowest average cost
 
 ## 📈 Tableau Dashboard
-🔗 [View Live Dashboard](add your tableau link here)
+🔗 [View Live Dashboard](https://public.tableau.com/views/Book1_17738330375390/AuctionSpendingHeatmap?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## 📁 Dataset
 Source: [Kaggle - IPL Auction Data 2013-2023](https://www.kaggle.com/datasets/kashishparmar02/ipl-auction-data-2013-2023)
